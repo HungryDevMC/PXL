@@ -1,0 +1,22 @@
+form {
+    display: inline-block;
+}
+
+form label {
+
+    display: inline-block;
+    width: 150px;
+
+}
+
+#bus_label {
+
+    width: auto;
+
+}
+
+#bus {
+
+    float: right;
+    
+}

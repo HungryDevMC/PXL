@@ -1,0 +1,39 @@
+* {
+
+    background-color: black;
+
+}
+
+h1 {
+
+    color: yellow;
+    text-align: center;
+
+}
+
+.sound_box {
+
+    padding: 10px;
+    border: yellow 2px solid;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    min-height: 200px;
+    min-width: 200px;
+
+}
+
+div.sound_box img {
+
+    height: 200px;
+    width: 200px;
+    text-align: center;
+
+}
+
+
+video {
+
+    width: 100%;
+
+}

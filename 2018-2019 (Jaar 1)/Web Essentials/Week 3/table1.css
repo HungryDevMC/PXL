@@ -1,0 +1,33 @@
+html {
+
+    color: white;
+    background: #c7ced8;
+
+}
+
+table {
+
+    background: #27426d;
+    border-color: black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 50%;
+    border-style: solid;
+    table-layout: fixed;
+    
+}
+
+tr.data:nth-child(2n+1) {
+
+    background: #4f8cef;
+    
+}
+
+tr.data:nth-child(2n) {
+
+    background: #6facff;
+
+}
+
+
+

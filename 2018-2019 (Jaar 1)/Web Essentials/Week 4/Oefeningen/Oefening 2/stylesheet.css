@@ -1,0 +1,93 @@
+html {
+
+    background-color: darkseagreen;
+
+}
+
+header {
+
+    float: left;
+    margin: 0px;
+
+}
+
+header img {
+
+    width: 250px;
+    height: 150px;
+
+}
+
+header section {
+
+    border: black solid 1px;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+section section {
+
+    border: black solid 1px;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+.header_right {
+
+    color: white;
+    float: right;
+    background-color: seagreen;
+    height: 150px;
+    width: 500px;
+
+}
+
+.header_left {
+
+    float: left;
+    padding: 0px;
+
+}
+
+.menu {
+
+    clear: both;
+    float: left;
+    background-color: seagreen;
+    color: white;
+    width: 150px;
+
+}
+
+
+.menu ul {
+
+    list-style: none;
+    text-align: left;
+    padding: 0px;
+}
+
+.menu ul li {
+
+    margin-left: 0px;
+
+}
+
+.content {
+
+    float: left;
+    background-color: gray;
+    color: black;
+    width: 600px;
+
+}
+
+.img_left {
+
+    float: left;
+    width: 250px;
+    height: 150px;
+    
+}

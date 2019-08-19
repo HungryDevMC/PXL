@@ -1,0 +1,18 @@
+td:nth-child(n) {
+
+    background-image: url("Images/witte-marmer.jpg");
+
+}
+
+td:nth-child(2n + 1 ) {
+
+    background-image: url("Images/zwarte-marmer.jpg");
+
+}
+
+table {
+
+    width: 800px;
+    height: 800px;
+
+}

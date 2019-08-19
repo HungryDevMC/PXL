@@ -1,0 +1,117 @@
+html {
+
+    font-family: Cambria;
+    color: white;
+
+}
+
+#festivals {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+#festivals li {
+    float: left;
+}
+
+#festivals li a {
+    display: block;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+    border: 2px solid white;
+    margin: 5px;
+}
+
+.festival_background {
+
+    color: black;
+    border: 5px solid black;
+    margin: 20px 0px;
+    align-items: center;
+
+}
+
+.festival_background.blue {
+
+    background-color: lightskyblue;
+
+}
+
+.festival_background.orange {
+
+    background-color: orange;
+
+}
+
+.cover {
+
+    width: 128px;
+    height: 128px;
+
+}
+
+#muziek {
+
+    font-size: 50px;
+
+}
+
+.border {
+
+    background: rgba(13,14,38,0.87);
+
+}
+
+.section_1 {
+
+    background: rgba(13,14,38,0.87);
+
+}
+
+h1 {
+
+    color: rgba(222,44,100,0.98);
+}
+
+.link_white {
+
+    color: white;
+
+}
+
+.link_white:hover {
+
+    font-size: 1.2em;
+    color: rgba(222,44,100,0.98);
+
+}
+
+.link_black {
+
+    color: black;
+
+}
+
+.link_black:hover {
+
+    color: rgba(222,44,100,0.98);
+
+}
+
+
+.albums {
+
+    display: block;
+    position: absolute;
+    right: 150px;
+    width: 200px;
+    bottom: 500px;
+
+}
+
+.albums ul {
+    list-style-type: none;
+}
